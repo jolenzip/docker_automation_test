@@ -1,4 +1,6 @@
 # docker_automation_test
+https://github.com/jolenzip/docker_automation_test/actions/workflows/main.yml/badge.svg
+https://github.com/jolenzip/docker_automation_test/actions/workflows/python-package-conda.yml/badge.svg
 
 following the steps from https://docs.github.com/en/actions/creating-actions/creating-a-docker-container-action
 
