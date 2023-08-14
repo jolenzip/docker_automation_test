@@ -2,4 +2,4 @@ name: base
 channels:
   - defaults
 dependencies:
-  - pandas=1.5.3=py311hf63dbb6_0
+  - pandas

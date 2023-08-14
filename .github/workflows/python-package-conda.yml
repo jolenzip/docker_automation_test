@@ -22,7 +22,7 @@ jobs:
       run: |
         conda config --show channels 
         conda info
-        conda install pandas
+        conda env update --file environment.yml --name base
     - name: Lint with flake8
       run: |
         conda install flake8
