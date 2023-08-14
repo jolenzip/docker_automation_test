@@ -1,5 +1,5 @@
-[![Bau Status](https://github.com/jolenzip/docker_automation_test/actions/workflows/main.yml/badge.svg)]
-![Py-Tests](https://github.com/jolenzip/docker_automation_test/actions/workflows/python-package-conda.yml/badge.svg)
+[![Repo Status](https://github.com/jolenzip/docker_automation_test/actions/workflows/main.yml/badge.svg)](https://github.com/jolenzip/docker_automation_test/actions/workflows/main.yml)
+[![Py-Tests](https://github.com/jolenzip/docker_automation_test/actions/workflows/python-package-conda.yml/badge.svg)](https://github.com/jolenzip/docker_automation_test/actions/workflows/python-package-conda.yml)
 
 # docker_automation_test
 
