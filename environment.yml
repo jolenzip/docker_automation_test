@@ -6,4 +6,4 @@ dependencies:
   - pandas
   - gdal
   - paramiko
-  - urllib2
+  - urllib

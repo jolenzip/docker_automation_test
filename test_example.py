@@ -8,8 +8,8 @@ def test_answer():
 
 
 def read_txt(target_url):
-  import urllib2
-  data = urllib2.urlopen(target_url)
+  import urllib.request
+  data = urllib.request.urlopen(target_url)
   no = 0
   for line in data: # files are iterable
     no += 1
