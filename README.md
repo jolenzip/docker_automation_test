@@ -1,4 +1,4 @@
-![Build Status](https://github.com/jolenzip/docker_automation_test/actions/workflows/main.yml/badge.svg)
+[![Bau Status](https://github.com/jolenzip/docker_automation_test/actions/workflows/main.yml/badge.svg)]
 ![Py-Tests](https://github.com/jolenzip/docker_automation_test/actions/workflows/python-package-conda.yml/badge.svg)
 
 # docker_automation_test
